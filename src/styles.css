@@ -1,0 +1,8 @@
+h1 {
+  collor: red(255, 0, 0);
+}
+.app {
+  font-size: 2rem;
+  font-weight: bold;
+  color: rgb(72, 0, 255);
+}
